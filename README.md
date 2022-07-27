@@ -1,4 +1,4 @@
-## Challeneg #9 - README-Generator
+## Challenge #9 - README-Generator
 
 ## License
 (https://img.shields.io/weblate/l/readme-generator/license)
