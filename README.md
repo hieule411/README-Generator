@@ -14,7 +14,7 @@ This application was created to generate a professional README with a series of 
 * [Contribution](#contribution)
 * [Testing](#testing)
 * [Questions](#questions)
-* 
+
 ## Installation
 
 The user to clone the repository from GitHub and download Node and inquirer
