@@ -1,7 +1,7 @@
 ## Challenge #9 - README-Generator
 
 ## License
-(https://img.shields.io/weblate/l/readme-generator/license)
+![License](https://img.shields.io/badge/license-mit-informational.svg)
 ## Description
 
 This application was created to generate a professional README with a series of questions a user answers in their command line using Node.js
